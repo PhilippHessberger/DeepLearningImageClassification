@@ -1,0 +1,6 @@
+*.jpg
+
+data/
+trained_models/
+venv/
+archived_models_and_logs/
